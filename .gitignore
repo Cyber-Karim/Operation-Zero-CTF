@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Virtual machine files
+*.vdi
+*.ova
+*.iso
+
+# Environment files
+.env
+config.env
+
+# Packet captures
+*.pcap
