@@ -251,13 +251,6 @@ All formal project documentation is included in the `/docs` directory.
 
 **TD03 CyberStorm** — Murdoch University, ICT302, March 2026
 
-| Name | Role |
-|------|------|
-| Dheeraj Engineer | Project Activity Coordinator |
-| Damon Duffy | Secretary |
-| Taha Al Mauly | Communications Manager |
-| Karim Khowaja | Security Coordinator |
-| Nishitha Rashmika Abeytunga | Software Coordinator |
 
 
 
