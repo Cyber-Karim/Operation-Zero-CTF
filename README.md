@@ -1,5 +1,5 @@
 
-# 🦡 Operation: ZERO — ZeroTrust: Security Theatre
+# Operation: ZERO — ZeroTrust: Security Theatre
 
 > A deliberately vulnerable cybersecurity training environment built for undergraduate students.  
 > Investigate a fictional corporate breach, chain exploits, escalate privileges, and capture 17 flags.
