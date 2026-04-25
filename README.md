@@ -19,7 +19,7 @@
 - [Project Documents](#project-documents)
 - [Team](#team)
 - [Disclaimer](#disclaimer)
-- [Skills-Demonstrated](#skill-demonstrated)
+- [Skills Demonstrated](#skill-demonstrated)
 
 ---
 
