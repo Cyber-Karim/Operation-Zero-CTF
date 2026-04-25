@@ -19,6 +19,7 @@
 - [Project Documents](#project-documents)
 - [Team](#team)
 - [Disclaimer](#disclaimer)
+- [Skills-Demonstrated](#skill-demonstrated)
 
 ---
 
@@ -250,10 +251,6 @@ All formal project documentation is included in the `/docs` directory.
 ## Team
 
 **TD03 CyberStorm** — Murdoch University, ICT302, March 2026
-
-
-
-
 ---
 
 ## Disclaimer
@@ -264,5 +261,14 @@ All formal project documentation is included in the `/docs` directory.
 > - Do not use techniques demonstrated in this lab against systems you do not own or have explicit written permission to test.
 > - All exploitation activities must remain within the isolated Host-Only virtual network.
 > - This project was developed for academic purposes under the supervision of Murdoch University.
->
+
+
+## Skills Demonstrated
+> - Network Scanning (Nmap)
+> - Web Enumeration
+> - Linux System Navigation
+> - Privilege Escalation
+> - Log Analysis
+> - Cybersecurity Investigation
+
 > *Distributed for authorised training use only. — TD03 CyberStorm*
